@@ -1,5 +1,9 @@
 # 👩‍💻 About me
-Hi! I'm Trang, a Data Science student passionate about big data and machine learning.
+  -   Hi! I'm Trang, a Data Science student passionate about big data and machine learning.
+    
+  -   I'm currently expanding my knowledge in modern data technologies such as Apache Spark, dbt, and Azure Databricks
+    
+  -   I also conducting research in the field of Large Language Models (LLMs).
 
 ## ⚒️ Languages-Frameworks-Tools ⚒️
 
@@ -21,5 +25,3 @@ Hi! I'm Trang, a Data Science student passionate about big data and machine lear
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
 </p>
 
-## 📈 GitHub Stats:
-![Trang's GitHub stats](https://github-readme-stats.vercel.app/api?username=huyentranq&show_icons=true&theme=radical)
