@@ -2,9 +2,9 @@
 
 - Hi! I'm Trang, a Data Science student passionate about big data and machine learning.
   
-- I'm currently expanding my knowledge in modern data technologies such as **Apache Spark**, **dbt**, **Azure**,  **Databricks**.
+- I'm currently expanding my knowledge in modern data technologies such as **Apache Spark**, **dbt**, **Kafka**.
   
-- I'm also conducting research in the field of **Large Language Models (LLMs)**.
+- I'm also learning about data modeling and its applications in solving data analytics problems.
 
 # 🌐 Connect with Me
 
