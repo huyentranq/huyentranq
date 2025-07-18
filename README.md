@@ -10,4 +10,4 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=githubpages&logoColor=white)](https://huyentranq.github.io/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/trang-nguyen-huyen-674109249/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trang-nguyen-huyen-674109249/)
