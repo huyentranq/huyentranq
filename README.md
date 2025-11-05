@@ -6,15 +6,6 @@
 
 ---
 
-## 🧠 Tech Stack & Skills
-
-- **Languages:** Python, SQL, C++, R (Statistics)  
-- **Data Engineering:** Spark, Streaming data, ETL/ELT Pipelines, dbt,  Airflow
-- **AI & ML:** LLM Data Processing (Chunking, Embedding, Vector Databases), Prompt Engineering, Model Fine-tuning  
-- **Data Analysis:** Power BI, Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering  
-- **Database**: MySQL, PostgreSQL  
----
-
 ## ⚙️ Tools & Platforms
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=for-the-badge)
@@ -49,7 +40,7 @@
 
 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br>
 
 ---
 
