@@ -17,10 +17,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-00B2FF?logo=python&logoColor=fff&style=for-the-badge)
 
-
----
----
-
 ---
 
 ## 📊 My GitHub Stats
@@ -32,15 +28,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=huyentranq&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" alt="GitHub Stats" height="180"/>
 </p>
 
+---
 
 ## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com]https://www.linkedin.com/in/trang-nguyen-huyen-674109249/))
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trang-nguyen-huyen-674109249/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nguyenhuyentrangg457@gmail.com)
-
-
-
-
-<br><br><br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://huyentranq.github.io/)
 
 ---
 
