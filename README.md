@@ -1,9 +1,6 @@
 # 👋 Hi, I’m Huyen Trang
 
-🎓 **A Data Science student** at the University of Science – VNUHCM.  
-💡 I have a strong foundation in **data engineering** and **applied AI**, with hands-on experience in **ETL pipelines, data workflows**, and **LLM-based retrieval systems**.  
-🚀 Passionate about building **scalable, data-driven solutions** that bridge AI and data infrastructure.
-
+🎓 **A Data Science student** 
 ---
 
 ## ⚙️ Tools & Platforms
