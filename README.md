@@ -48,13 +48,13 @@ My goal is to bridge the gap between **data, intelligent models, and real-world 
 
 ---
 
-# 🔍 What I'm Interested In
+#  What I'm Interested In
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 AI & Machine Learning
+###  AI & Machine Learning
 
 Building and experimenting with models that solve real-world problems.
 
@@ -69,7 +69,7 @@ Building and experimenting with models that solve real-world problems.
 
 <td width="33%" valign="top">
 
-### 🧠 Generative AI
+###  Generative AI
 
 Exploring how LLMs can be combined with data and software systems.
 
@@ -84,7 +84,7 @@ Exploring how LLMs can be combined with data and software systems.
 
 <td width="33%" valign="top">
 
-### 🏗️ Data Engineering
+###  Data Engineering
 
 Designing the data foundations that support analytics and AI systems.
 
@@ -101,7 +101,7 @@ Designing the data foundations that support analytics and AI systems.
 
 ---
 
-# 💼 Professional Experience
+#  Professional Experience
 
 ## Data Science Intern — Intel Products Vietnam
 
@@ -114,195 +114,6 @@ I also develop automated solutions that enhance the efficiency and reliability o
 **Focus:**
 `System Improvement` · `Detection & Diagnostics` · `Anomaly Detection` · `False Alarm Reduction` · `Process Monitoring` · `Workflow Automation` · `Data-driven Optimization`
 
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-### From Data Infrastructure to Intelligent Applications
-
-</div>
-
----
-
-## 🧠 OmniLearn — Intelligent Learning Platform
-
-An intelligent learning platform exploring the integration of **Large Language Models, Retrieval-Augmented Generation, and Multi-Agent Systems** into learning workflows.
-
-### What I worked on
-
-* Developed AI-powered learning workflows using LLM technologies.
-* Explored **Retrieval-Augmented Generation (RAG)** for knowledge-grounded responses.
-* Applied vector search for semantic retrieval.
-* Experimented with **Multi-Agent Systems** for specialized learning tasks.
-* Designed prompt workflows to improve response quality and grounding.
-* Integrated AI capabilities into a broader learning application.
-
-### System Direction
-
-```text
-User
-  │
-  ▼
-Learning Application
-  │
-  ├───────────────┐
-  │               │
-  ▼               ▼
-AI Chat        Learning Tasks
-  │          Quiz · Flashcard
-  │          Essay · Roadmap
-  │
-  ▼
-Retrieval Layer
-  │
-  ▼
-Vector Search
-  │
-  ▼
-Knowledge Context
-  │
-  ▼
-LLM / Agent Workflow
-  │
-  ▼
-Grounded Response
-```
-
-### Tech Stack
-
-`Python` · `LLM` · `RAG` · `Multi-Agent Systems` · `LangChain` · `FAISS` · `FastAPI` · `PostgreSQL` · `MinIO`
-
----
-
-## 📊 TMDB Data Engineering & Analytics Platform
-
-An end-to-end data engineering project focused on building a structured pipeline for **data ingestion, transformation, modeling, and downstream analytics**.
-
-### What I worked on
-
-* Built ETL/ELT workflows for movie-related datasets.
-* Designed a **Bronze → Silver → Gold** data processing architecture.
-* Used Apache Spark for large-scale data processing and transformation.
-* Applied dbt for data transformation and data modeling.
-* Used Dagster for workflow orchestration.
-* Managed structured data with PostgreSQL.
-* Used MinIO for object storage.
-* Containerized the data platform using Docker.
-
-### Data Architecture
-
-```text
-                 RAW DATA
-                    │
-                    ▼
-            ┌───────────────┐
-            │ Data Ingestion│
-            └───────┬───────┘
-                    │
-                    ▼
-            ┌───────────────┐
-            │  BRONZE LAYER │
-            │   Raw Data    │
-            └───────┬───────┘
-                    │
-                    ▼
-            ┌───────────────┐
-            │ SILVER LAYER  │
-            │ Cleaned Data  │
-            └───────┬───────┘
-                    │
-                    ▼
-            ┌───────────────┐
-            │   dbt Models  │
-            │ Transformation│
-            └───────┬───────┘
-                    │
-                    ▼
-            ┌───────────────┐
-            │  GOLD LAYER   │
-            │ Analytics Data│
-            └───────┬───────┘
-                    │
-             ┌──────┴──────┐
-             ▼             ▼
-        Analytics      ML Workflows
-```
-
-### Tech Stack
-
-`Python` · `SQL` · `Apache Spark` · `Spark MLlib` · `dbt` · `Dagster` · `PostgreSQL` · `MinIO` · `Docker`
-
----
-
-## 🎨 Sketch-to-Image with Pix2Pix
-
-A deep learning project focused on **sketch-to-image generation** using conditional Generative Adversarial Networks and the Pix2Pix framework.
-
-The project explores image-to-image translation across multiple datasets, including **Facades, Edges2Shoes, and CUFS**.
-
-### What I worked on
-
-* Implemented Pix2Pix for paired image-to-image translation.
-* Experimented with **U-Net-based generator architectures**.
-* Explored conditional GAN training for sketch-to-image generation.
-* Conducted model experiments and ablation studies.
-* Evaluated generated results using quantitative image quality metrics.
-* Built a Gradio demo for model inference.
-
-### Model Direction
-
-```text
-             Input Sketch
-                  │
-                  ▼
-        ┌──────────────────┐
-        │     Generator    │
-        │      U-Net       │
-        └────────┬─────────┘
-                 │
-                 ▼
-          Generated Image
-                 │
-                 │
-        ┌────────┴─────────┐
-        │                  │
-        ▼                  ▼
-   Real Image         Generated Image
-        │                  │
-        └────────┬─────────┘
-                 ▼
-           Discriminator
-                 │
-                 ▼
-          Adversarial Loss
-                 +
-              L1 Loss
-```
-
-### Tech Stack
-
-`Python` · `PyTorch` · `GAN` · `cGAN` · `Pix2Pix` · `U-Net` · `Computer Vision` · `Gradio`
-
----
-
-# 🧩 My Technical Landscape
-
-```text
-                         AI / DATA SYSTEMS
-                                │
-              ┌─────────────────┼─────────────────┐
-              │                 │                 │
-              ▼                 ▼                 ▼
-         AI / ML           GENERATIVE AI     DATA ENGINEERING
-              │                 │                 │
-        ┌─────┴─────┐     ┌─────┴─────┐     ┌─────┴─────┐
-        │           │     │           │     │           │
-     PyTorch     ML       LLM         RAG   Spark      ETL
-     Scikit      Models   Agents      FAISS dbt       Dagster
-     Learn                LangChain        SQL        Docker
-```
 
 ---
 
@@ -332,17 +143,7 @@ The project explores image-to-image translation across multiple datasets, includ
 
 `Apache Spark` · `Spark MLlib` · `dbt` · `Dagster` · `ETL / ELT`
 
-### Databases & Storage
 
-`PostgreSQL` · `MySQL` · `MinIO`
-
-### Development & Deployment
-
-`FastAPI` · `Streamlit` · `Docker` · `Git` · `GitHub`
-
-### Visualization
-
-`Matplotlib` · `Power BI`
 
 ---
 
@@ -366,8 +167,6 @@ The project explores image-to-image translation across multiple datasets, includ
 
 **Bachelor of Data Science**
 
-`GPA: 8.65 / 10` · `TOEIC: 820`
-
 ### Relevant Areas
 
 `Machine Learning` · `Deep Learning` · `Data Mining`
@@ -376,85 +175,8 @@ The project explores image-to-image translation across multiple datasets, includ
 
 `Statistical Data Processing` · `Python for Data Science`
 
----
 
-# 📈 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" width="49%" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" width="70%" />
-
-</div>
-
----
-
-# 🌱 Currently Exploring
-
-```text
-                    DATA
-                      │
-                      ▼
-              Data Engineering
-                      │
-                      ▼
-                 AI / ML
-                      │
-                      ▼
-               Generative AI
-                      │
-                      ▼
-             LLM & Agent Systems
-                      │
-                      ▼
-              Production Systems
-```
-
-I am continuously exploring how to move from **data and research ideas to practical intelligent systems**.
-
-My current learning direction focuses on:
-
-* Advanced Machine Learning & Deep Learning
-* Generative AI and LLM Applications
-* RAG and Agentic Systems
-* Data Engineering at Scale
-* Production-oriented AI Systems
-* Building reliable and maintainable data-driven applications
-
----
-
-# 💡 Build Philosophy
-
-> **Good AI systems are more than models.**
-
-> They are built from reliable data, thoughtful experimentation, useful applications, and engineering systems that make everything work together.
-
-I believe a strong Data Scientist or AI Engineer should understand the journey from:
-
-```text
-Problem
-  ↓
-Data
-  ↓
-Analysis
-  ↓
-Model
-  ↓
-Evaluation
-  ↓
-Application
-  ↓
-Reliable System
-```
-
-I am interested in building systems that are not only **accurate**, but also **useful, reproducible, maintainable, and applicable to real-world problems**.
-
----
 
 # 🤝 Let's Connect
 
