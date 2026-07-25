@@ -5,11 +5,11 @@
 ### Data Science Student · AI/ML · Generative AI · Data Engineering
 
 <p>
-  <a href="[https://github.com/YOUR_USERNAME](https://github.com/huyentranq)">
+  <a href="https://github.com/huyentranq">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/trang-nguyen-huyen-674109249/)" />
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/trang-nguyen-huyen-674109249/)">
+    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white]" />
   </a>
   <a href="mailto:nguyenhuyentrangg457@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
