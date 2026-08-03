@@ -146,17 +146,6 @@ I also develop automated solutions that enhance the efficiency and reliability o
 
 ---
 
-# 🏆 Achievements
-
-| Achievement | Recognition                              |
-| ----------- | ---------------------------------------- |
-| 🥈          | Second Prize — SCUDEM                    |
-| 🥉          | Third Prize — SCUDEM                     |
-| 🏅          | Encouragement Prize — MCM/ICM            |
-| 🏆          | Top 20 — MyInsight Datathon 2025         |
-| 🔬          | Outstanding Research Certificates — 2025 |
-| 🎓          | Vallet Scholarship                       |
-| 🎓          | SCG Sharing The Dream Scholarship        |
 
 ---
 
